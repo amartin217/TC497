@@ -49,6 +49,28 @@ make euchre.exe
 Example Run:
 ![Demo](Sequence%2003.gif)
 
+## Usage Examples
+
+To play euchre, you must provide an input pack file, select "shuffle" or "noshuffle", and input the names and types of players. Here are some examples of usage with different parameters.
+
+#### All AI (Simple) Players:
+
+```bash
+./euchre.exe pack.in noshuffle 3 Bob Simple Alice Simple Jeffrey Simple Miranda Simple 
+```
+
+#### All Human Players:
+
+```bash
+./euchre.exe pack.in shuffle 3 Bob Human Alice Human Jeffrey Human Miranda Human
+```
+
+#### Both AI (Simple) and Human Players:
+
+```bash
+./euchre.exe pack.in shuffle 3 Bob Simple Alice Human Jeffrey Human Miranda Simple 
+```
+
 
 ## Features
 
@@ -78,13 +100,24 @@ Euchre Project Architecture Diagram:
 ## FAQ
 
 Q: Do I need to know the rules of Euchre to use this project?
+
 A: Not necessarily since the game enforces rules automatically. However, some familiarity helps!
 
+
 Q: Can I write my own AI player?
+
+
 A: Yes, just inherit from the Player abstract class and implement the required methods.
 
+
 Q: Does it work outside of EECS 280?
+
 A: Absolutely. It’s standard C++11 and portable across Linux, macOS, and Windows.
+
+Q: When selecting a card, should the brackets be included? i.e should I type "[0]" or "0"?
+
+A: The brackets are not included! Here is an example:
+![Demo](gif_1.gif)
 
 ## Dependencies
 
