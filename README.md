@@ -70,4 +70,36 @@ Example Run:
 ## Architecture Overview
 
 Euchre Project Architecture Diagram:
-![Demo](Untitled%Diagram.drawio)
+
+![Demo](architectureDiagram.png)
+
+## FAQ
+
+Q: Do I need to know the rules of Euchre to use this project?
+A: Not necessarily since the game enforces rules automatically. However, some familiarity helps!
+
+Q: Can I write my own AI player?
+A: Yes, just inherit from the Player abstract class and implement the required methods.
+
+Q: Does it work outside of EECS 280?
+A: Absolutely. It’s standard C++11 and portable across Linux, macOS, and Windows.
+
+## Dependencies
+
+- Standard C++ library
+- make build system
+
+## Contributing
+
+Contributions are welcome!
+- Fork the repository
+- Create a feature branch (git checkout -b feature/custom-ai)
+- Commit your changes (git commit -m "Added custom AI player")
+- Push to the branch (git push origin feature/custom-ai)
+- Open a Pull Request
+
+## Acknowledgements
+
+- University of Michigan, EECS 280 Staff
+- Euchre enthusiasts who inspired the project
+- shields.io for README badges
