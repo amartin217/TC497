@@ -1,4 +1,6 @@
-EECS 280 Euchre Project
+![Demo](euchre.png)
+
+# EECS 280 Euchre Project
 
 This project is a C++ implementation of the card game Euchre.
 
