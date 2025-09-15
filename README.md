@@ -45,7 +45,7 @@ make euchre.exe
 ```
 
 Example Run:
-![<GIF>](file:///Users/allisonmartin/Documents/Adobe/Premiere%20Pro/25.0/Sequence%2003.gif "Sequence 03.gif")
+![Demo](Sequence%2003.gif)
 
 
 ## Features
@@ -68,3 +68,6 @@ Example Run:
 
 
 ## Architecture Overview
+
+Euchre Project Architecture Diagram:
+![Demo](Untitled%Diagram.drawio)
