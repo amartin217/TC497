@@ -1,4 +1,4 @@
-![Demo](euchre.png)
+![Demo](euchre2.png)
 
 # EECS 280 Euchre Project
 
