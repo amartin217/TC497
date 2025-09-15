@@ -137,4 +137,3 @@ Contributions are welcome!
 
 - University of Michigan, EECS 280 Staff
 - Euchre enthusiasts who inspired the project
-- shields.io for README badges
