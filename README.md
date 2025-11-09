@@ -14,7 +14,7 @@ This project is a C++ implementation of the card game Euchre.
 ## Table of Contents
 - Quickstart Guide
 - Features
-- Architecture Overview
+- tecture Overview
 - Usage Examples
 - FAQ
 - Dependencies
@@ -96,7 +96,7 @@ To play euchre, you must provide an input pack file, select "shuffle" or "noshuf
 
 Euchre Project Architecture Diagram:
 
-![Image of an architecture diagram of the project](architectureDiagram.png)
+![Image of an architecture diagram of the project](architectureDiagram.jpg)
 
 ## FAQ
 
