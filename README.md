@@ -101,7 +101,7 @@ Euchre Project Architecture Diagram:
 ## FAQ
 
 Q: Do I need to know the rules of Euchre to use this project?
-A: Not necessarily since the game enforces rules automatically. However, some familiarity helps!
+/n\nA: Not necessarily since the game enforces rules automatically. However, some familiarity helps!
 
 
 Q: Can I write my own AI player?
