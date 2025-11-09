@@ -24,7 +24,7 @@ This project is a C++ implementation of the card game Euchre.
 
 #### Prerequisites
 - C++ compiler supporting C++11 or later (e.g., g++, clang++)
-- make for build automation
+- Make for build automation
 
 #### Installation
 - Clone the repository:
@@ -48,7 +48,7 @@ make euchre.exe
 
 Example Run: 
 ![GIF displaying the commands above correctly being run in a terminal](Sequence%2003.gif)
-^NOTE TO PROFESSOR MONTGOMERY: This is appearing as an animated GIF on my end, but one of my peer reviewers said that I did not have animated GIFs. I am not sure why this is the case, but if you can not see the animated GIF please let me know and I can show you how it looks from my end.
+TODO: fix gifs
 
 ## Usage Examples
 
@@ -101,30 +101,25 @@ Euchre Project Architecture Diagram:
 ## FAQ
 
 Q: Do I need to know the rules of Euchre to use this project?
-
 A: Not necessarily since the game enforces rules automatically. However, some familiarity helps!
 
 
 Q: Can I write my own AI player?
-
-
 A: Yes, just inherit from the Player abstract class and implement the required methods.
 
 
 Q: Does it work outside of EECS 280?
-
 A: Absolutely. It’s standard C++11 and portable across Linux, macOS, and Windows.
 
 Q: When selecting a card, should the brackets be included? i.e should I type "[0]" or "0"?
-
 A: The brackets are not included! Here is an example:
 ![GIF Demonstrating how to select a card by writing the number without brackets](gif_1.gif)
-^NOTE TO PROFESSOR MONTGOMERY: This is appearing as an animated GIF on my end, but one of my peer reviewers said that I did not have animated GIFs. I am not sure why this is the case, but if you can not see the animated GIF please let me know and I can show you how it looks from my end.
+TODO fix gif
 
 ## Dependencies
 
 - Standard C++ library
-- make build system
+- Make build system
 
 ## Contributing
 
