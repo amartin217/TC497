@@ -101,20 +101,26 @@ Euchre Project Architecture Diagram:
 ## FAQ
 
 Q: Do I need to know the rules of Euchre to use this project?
-/n\nA: Not necessarily since the game enforces rules automatically. However, some familiarity helps!
+
+A: Not necessarily since the game enforces rules automatically. However, some familiarity helps!
 
 
 Q: Can I write my own AI player?
+
 A: Yes, just inherit from the Player abstract class and implement the required methods.
 
 
 Q: Does it work outside of EECS 280?
+
 A: Absolutely. It’s standard C++11 and portable across Linux, macOS, and Windows.
 
+
 Q: When selecting a card, should the brackets be included? i.e should I type "[0]" or "0"?
+
 A: The brackets are not included! Here is an example:
 ![GIF Demonstrating how to select a card by writing the number without brackets](gif_1.gif)
 TODO fix gif
+
 
 ## Dependencies
 
