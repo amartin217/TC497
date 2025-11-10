@@ -94,11 +94,17 @@ To play euchre, you must provide an input pack file, select "shuffle" or "noshuf
 ## Architecture Overview
 
 <p align="center">
-  <img src="classDiagram.jpg" alt="Architecture diagram showing class interactions" width="45%" style="margin-right: 10px;" />
-  <img src="gameDiagram.jpg" alt="Diagram showing play function mechanics in Game class" width="45%" />
+  <span style="display: inline-block; text-align: center; margin-right: 30px;">
+    <strong>Class Architecture Overview</strong><br>
+    <img src="classDiagram.jpg" alt="Architecture diagram showing class interactions" width="400">
+  </span>
+
+  <span style="display: inline-block; text-align: center;">
+    <strong>Game Class: <code>play()</code> Function Flow</strong><br>
+    <img src="gameDiagram.jpg" alt="Diagram showing play function mechanics in Game class" width="400">
+  </span>
 </p>
 
-<p align="center"><i>Left: Architecture diagram showing class interactions. Right: Diagram illustrating the <code>play()</code> function mechanics in the <code>Game</code> class.</i></p>
 
 ## FAQ
 
