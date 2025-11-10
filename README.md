@@ -46,7 +46,7 @@ make euchre.exe
 ./euchre (parameters here)
 ```
 
-Example Run: 
+Example Run:  
 ![GIF displaying the commands above correctly being run in a terminal](createGame.gif)
 
 ## Usage Examples
