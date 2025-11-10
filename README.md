@@ -100,13 +100,11 @@ Euchre Project Architecture Diagram:
 
 ## FAQ
 
-Q: Do I need to know the rules of Euchre to use this project?
-
+Q: Do I need to know the rules of Euchre to use this project?  
 A: Not necessarily since the game enforces rules automatically. However, some familiarity helps!
 
 
-Q: Can I write my own AI player?
-
+Q: Can I write my own AI player? <br />
 A: Yes, just inherit from the Player abstract class and implement the required methods.
 
 
