@@ -112,8 +112,8 @@ A: Absolutely. It’s standard C++11 and portable across Linux, macOS, and Windo
 
 
 Q: When selecting a card, should the brackets be included? i.e should I type "[0]" or "0"?  
-A: The brackets are not included! Here is an example:
-![GIF Demonstrating how to select a card by writing the number without brackets](chooseCard.gif)
+A: The brackets are not included! Here is an example:  
+![GIF Demonstrating how to select a card by writing the number without brackets](pickCard.gif)
 
 
 ## Dependencies
