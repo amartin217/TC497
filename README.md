@@ -47,8 +47,7 @@ make euchre.exe
 ```
 
 Example Run: 
-![GIF displaying the commands above correctly being run in a terminal](Sequence%2003.gif)
-TODO: fix gifs
+![GIF displaying the commands above correctly being run in a terminal](startGame.gif)
 
 ## Usage Examples
 
@@ -114,8 +113,7 @@ A: Absolutely. It’s standard C++11 and portable across Linux, macOS, and Windo
 
 Q: When selecting a card, should the brackets be included? i.e should I type "[0]" or "0"?  
 A: The brackets are not included! Here is an example:
-![GIF Demonstrating how to select a card by writing the number without brackets](gif_1.gif)
-TODO fix gif
+![GIF Demonstrating how to select a card by writing the number without brackets](chooseCard.gif)
 
 
 ## Dependencies
